@@ -1,0 +1,19 @@
+{
+  "name": "ithaca",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "caver-js": "^1.4.1",
+    "truffle-hdwallet-provider-klaytn": "^1.0.13-a"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
