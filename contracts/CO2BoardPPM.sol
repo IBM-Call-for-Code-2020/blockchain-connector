@@ -5,4 +5,7 @@ contract CO2BoardPPM {
   function addMeasured(uint _measured) public {
     measured += _measured;
   }
+  function getMeasured() public view returns (uint) {
+    return measured;
+  }
 }

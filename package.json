@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "caver-js": "^1.4.1",
+    "mocha": "^7.2.0",
     "truffle-hdwallet-provider-klaytn": "^1.0.13-a"
   },
   "devDependencies": {},
