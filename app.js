@@ -62,7 +62,7 @@ app.post('/co2', (req, res) => {
     .then((info) => {
       res.json({
         blkHash: bh,
-        txHahs: th,
+        txHash: th,
         timestamp: info.timestamp
       });
     });
